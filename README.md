@@ -2,7 +2,7 @@
 
 Interactive executive dashboard built using **Power BI**, **Power Query**, **DAX**, and a **Star Schema** to analyze global retail sales performance.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
@@ -45,8 +45,6 @@ The project follows a **Star Schema** consisting of:
 - dim_Product
 - dim_Date
 
-![Data Model](data-model.png)
-
 ---
 
 ## 🔄 Power Query (ETL)
@@ -59,7 +57,7 @@ The data preparation process included:
 - Star schema preparation
 - Date dimension creation
 
-![Power Query](power-query.png)
+![Power Query](Power-Query.png)
 
 ---
 
